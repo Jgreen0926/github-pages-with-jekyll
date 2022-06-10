@@ -1,4 +1,3 @@
-# Jonathan Green
 ---
 title: "Jonathan Green's Blog"
 date: 2022-06-10
