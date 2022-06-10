@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Jonathan Green"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Instagram: Jerseysnkrplug
+Snapchat: Jongreen23
+
